@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[159, 9, 182, 32], command:@"Click", eventNum:2, hotSpot:[169, 753], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Taskbar_IE", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[319, 709, 389, 739], command:@"Click", eventNum:4, hotSpot:[354, 44], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Addressbar", searchType:@"Precise", waitFor:@"5.4"}, screenShotFile:@"Screen0004.png", waitFor:@"5.4"}, {command:@"TypeText", eventNum:6, origText:@"\"www\"", screenShotFile:@"Screen0006.png", text:@"\"www.amazon.co.uk\",Return"}, {command:@"TypeText", eventNum:11, origText:@"Backspace,Backspace,Backspace,Backspace,\"amazon\",Return", screenShotFile:@"Screen0006.png", skipStep:@"YES", text:@",\"amazon\",Return"}, {captureRect:[204, 636, 251, 651], command:@"Click", eventNum:31, hotSpot:[237, 120], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Shopby", searchType:@"Smooth", waitFor:@"3.9"}, OCRText:@"Shop by", screenShotFile:@"Screen0031.png", useOCR:@"NO", waitFor:@"3.9"}, {captureRect:[273, 509, 315, 523], command:@"Click", eventNum:33, hotSpot:[304, 252], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Kindle", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0033.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Click "Taskbar_IE"</string>
+		<string>Click (Image:"Addressbar", WaitFor:5.4)</string>
+		<string>TypeText "www.amazon.co.uk",Return</string>
+		<string>-skipped- TypeText ,"amazon",Return</string>
+		<string>Click (Image:"Shopby", WaitFor:3.9)</string>
+		<string>Click "Kindle"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>Taskbar_IE.png</string>
+			<string>Addressbar.png</string>
+			<string>Shopby.png</string>
+			<string>Kindle.png</string>
+			<string>Taskbar_IE.png</string>
+			<string>Addressbar.png</string>
+			<string>Shopby.png</string>
+			<string>Kindle.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>turboSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

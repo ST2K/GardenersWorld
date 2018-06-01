@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="amazon demo">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2018-03-20 12:40:40 +0000</FirstRun>
+  <LastRun>2018-03-20 12:40:40 +0000</LastRun>
+  <TotalTimeOnSuccess>4.736520</TotalTimeOnSuccess>
+ </script>
+</statistics>

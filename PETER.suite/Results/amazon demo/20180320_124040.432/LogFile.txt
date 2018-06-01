@@ -1,0 +1,8 @@
+﻿2018-03-20 12:40:40.433 +0000	START		Running amazon demo.script
+2018-03-20 12:40:40.991 +0000	click	Taskbar_IE	at (169, 753)	8	on_amazon_demo	amazon demo.script
+2018-03-20 12:40:42.198 +0000	click	Addressbar	at (300, 44)	9	on_amazon_demo	amazon demo.script
+2018-03-20 12:40:43.118 +0000	typetext		www.amazon.co.uk[return]	10	on_amazon_demo	amazon demo.script
+2018-03-20 12:40:43.916 +0000	click	Shopby	at (237, 120)	11	on_amazon_demo	amazon demo.script
+2018-03-20 12:40:44.933 +0000	click	Kindle	at (304, 252)	12	on_amazon_demo	amazon demo.script
+2018-03-20 12:40:45.169 +0000	EndTestCase		(Duration:"4.732251", Errors:"0", Exceptions:"0", StartTime:"2018-03-20 12:40:40 +0000", Successes:"1", TestCase:"amazon demo.script", Warnings:"0")
+2018-03-20 12:40:45.187 +0000	SUCCESS		Execution Time 0:00:04 amazon demo.script

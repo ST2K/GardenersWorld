@@ -1,0 +1,12 @@
+(* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+  Script generated:  2018-03-20 12:40:22
+  From session:  amazon demo
+  Captured on:  2018-03-20 12:35:18
+  From server:  AWS-Device
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *)
+
+Click "Taskbar_IE"
+Click (Image:"Addressbar", WaitFor:5.4)
+TypeText "www.amazon.co.uk",Return
+Click (Image:"Shopby", WaitFor:3.9)
+Click "Kindle"
